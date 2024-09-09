@@ -1,0 +1,4 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://aufwme.github.io/lCa/sitemap.lCa.gz
